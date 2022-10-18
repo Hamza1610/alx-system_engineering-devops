@@ -1,5 +1,5 @@
 
-#!bin/bashe
+#!/bin/bash
 echo "File name with sh extension"
 read filename
 touch $filename && vi $filename

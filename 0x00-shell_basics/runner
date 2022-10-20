@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "Name of file to be created"
+read filename
+touch $filename
+chmod a+x $filename
+echo "#!/bin/bash" > $filename
+echo "Command to be inputed"
+read mycommand
+echo $mycommand >> $filename
+git add $filename

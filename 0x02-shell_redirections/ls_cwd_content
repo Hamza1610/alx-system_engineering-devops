@@ -1,0 +1,21 @@
+total 60
+drwxr-xr-x 2 root root 4096 Oct 23 04:14 .
+drwxr-xr-x 6 root root  121 Oct 22 19:11 ..
+-rwxr-xr-x 1 root root   32 Oct 23 03:24 0-hello_world
+-rwxr-xr-x 1 root root   21 Oct 12 21:38 10-no_more_js
+-rwxr-xr-x 1 root root   25 Oct 12 21:47 11-directories
+-rwxr-xr-x 1 root root   30 Oct 12 21:59 13-unique
+-rwxr-xr-x 1 root root   28 Oct 23 02:57 1-confused_smiley
+-rwxr-xr-x 1 root root   27 Oct 23 03:39 2-hellofile
+-rwxr-xr-x 1 root root   39 Oct 23 03:52 3-twofiles
+-rwxr-xr-x 1 root root   35 Oct 23 03:49 4-lastlines
+-rwxr-xr-x 1 root root   36 Oct 23 03:55 5-firstlines
+-rwxr-xr-x 1 root root   42 Oct 23 03:58 6-third_line
+-rwxr-xr-x 1 root root   95 Oct 23 04:10 7-file
+-rwxr-xr-x 1 root root   36 Oct 23 04:14 8-cwd_state
+-rwxr-xr-x 1 root root    0 Oct 12 21:09 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Oct 23 04:11 \*\\'"Best Scool"\'\\*$\?\*\*\*\*\*
+-rwxr-xr-x 1 root root    0 Oct 12 04:29 hellofile
+-rw-r--r-- 1 root root    0 Oct 23 04:14 ls_cwd_content
+-rw-r--r-- 1 root root    0 Oct 23 03:05 README.md
+-rwxr-xr-x 1 root root  303 Oct 18 04:49 script.sh
